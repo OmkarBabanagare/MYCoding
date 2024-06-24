@@ -490,6 +490,19 @@ footer #social-media-footer ul li{
     }
   }
 
+@media (max-width:800px){
+    .card-image1 img{
+        width: 105%;
+    }
+
+    .card .card-image img{
+        width: 145%;
+    }
+    .card-description{
+        width: 140%;
+    }
+}
+
 
 #button1{
     cursor: pointer;
